@@ -1,0 +1,11 @@
+class Main{ 
+
+ public m1(){ 
+
+     System.out.println("believe your self");
+
+}
+
+
+
+}
